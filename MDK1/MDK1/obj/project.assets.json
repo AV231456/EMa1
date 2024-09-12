@@ -8,7 +8,7 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Student2\\.nuget\\packages\\": {}
+    "C:\\Users\\student\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Каримов Каймов\\mdk\\MDK1\\MDK1\\MDK1.csproj",
       "projectName": "MDK1",
       "projectPath": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Каримов Каймов\\mdk\\MDK1\\MDK1\\MDK1.csproj",
-      "packagesPath": "C:\\Users\\Student2\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
       "outputPath": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Каримов Каймов\\mdk\\MDK1\\MDK1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Student2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -11,7 +11,7 @@ namespace MDK1
         {
             {
                 pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-                pictureBox1.Image = Image.FromFile(@"C:\Users\student\Downloads\");
+                pictureBox1.Image = Image.FromFile(@"C:\Users\student\Downloads\загрузка.jpg");
             }
         }
     }
